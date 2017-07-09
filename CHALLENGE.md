@@ -4,10 +4,11 @@ Pour créer un commit, dans la console:
 mkdir le_projet
 cd le_projet/
 git init
-touch checklist_creer_commit.md
-git add checklist_creer_commit.md
+touch le_fichier.md
+git add le_fichier.md
 Le nouveau fichier est créé
-git commit -m "ajouté fichier checklist"
+git commit -m "ajouté le_fichier"
+
 
 
 
